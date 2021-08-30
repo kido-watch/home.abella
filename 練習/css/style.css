@@ -1,0 +1,259 @@
+@charset="utf-8";
+
+html{
+  width: 1200px;
+  margin: auto;
+}
+
+
+
+body{
+  margin: auto;
+  padding: 0;
+  background-color:#ccbb66;
+  color: #332f1a;
+  font-size: 15px;
+  line-height: 4;
+}
+
+p,h1,h2,h3,h4,h5,h6{
+  margin-top: 0;
+}
+
+img{
+  vertical-align: bottom;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+a{
+  color: #332f1a; 
+  text-decoration: none;
+}
+
+
+a:hover{
+  text-decoration: underline;
+}
+
+header{
+  width: 1200px;
+  text-align: ;
+  margin: auto;
+}
+}
+
+.logo{
+  margin: auto;
+  text-align: center;
+}
+
+.global-nav li a:hover{
+  border-bottom: 2px solid #332f1a;
+  float: none;
+  margin-top: 2px;
+  text-decoration: none;
+}
+
+.global-nav li {
+  margin: 20px 110px;
+  font-size: 16px;
+  list-style: none;
+  text-align: center center;
+  display: inline;
+  padding-bottom: 3px;
+  font-family: 'Kaisei Tokumin', serif;
+}
+
+#wrap{
+  clear: both;
+  width: 1200px;
+  margin-top: 200px;
+
+
+}
+
+.content{
+  width: 1200px;
+  margin:10px;
+  padding: 
+}
+
+
+#index{
+  background-image: url(../images/home.jpg);
+  background-repeat: no-repeat;
+  background-position: 0 210px;
+  background-attachment: scroll;
+  background-size: 1200px;
+  
+}
+
+#index h1{
+  font-size: 30px;
+  line-height:　normal;
+  color: #332fla;
+  font-family: 'Homemade Apple', cursive;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+#index .content{
+  margin-top: 70px;
+  
+}
+
+.cookbook li{
+  text-align: center
+}
+
+
+.sidebar h2{
+  text-align: center;
+  margin:auto;
+  padding: inherit;
+}
+
+
+footer{
+  clear: both;
+  width: 1200px;
+  text-align: center;
+  margin: auto;
+}
+
+.small{
+  font-size: 12px;
+}
+
+
+
+
+.lecipematome li{
+  width: 920px;
+  height: 560px;
+  text-align: center;
+}
+
+.sidebar li{
+  list-style: none;
+  float: left;
+  padding: 50px 140px;
+  margin-bottom: 100px;
+  font-size: 20px;
+}
+
+.mi-to{
+  width: 750px;
+  float: left;
+  margin: 0 10px;
+}
+
+
+.side h2{
+  width: 300px;
+  height: auto;
+  float: right;
+  font-size: 20px;
+  margin: 0 10px 30px 0;
+  padding: 0;
+  
+  
+  
+ 
+  
+}
+
+
+.side li {
+  width: 300px;
+  height: auto;
+  float: right;
+  font-size: 15px;
+  margin: 0 10px 30px 0px;
+  padding: 0px;
+  text-align: center
+  
+}
+
+.lecipe1 {
+  list-style:none;
+  width: 1000px;
+  margin:0 10px;
+  float: left;
+}
+
+
+.lecipe2 {
+  width: 1000px;
+  margin: 0 10px;
+  float: left;
+  
+}
+
+
+@media screen and (max-width:600px){
+/画面のサイズが600px以下の場合に適用/
+}
+
+  
+
+header{
+  width: ;
+  margin:0 
+  
+}
+
+.logo{
+  float:none;
+  margin-top: 0;
+  text-align:center;
+  margin: auto;
+}
+
+.gloval-nav {
+  float: none;
+  margin-top: 40px;
+  
+}
+
+.gloval-nav li{
+  display: inline;
+  float: none;
+  margin: 0 8px;
+}
+
+#wrap{
+  margin-top: 40px;
+  padding: 35px 0 0;
+}
+
+.content{
+  width: 100%;
+}
+
+.main{
+  float: none;
+  width: auto;
+  margin:
+  text-align: center;
+}
+
+#index{
+  background-image: url(../images/home.jpg);
+  background-position: 0 210px;
+  margin: auto;
+}
+
+
+.lecipe2{
+  width:1200px;
+  margin: 20px;
+  font-size: 15px;
+}
+
+.lecipe1 {
+  margin-left: 30px
+}
